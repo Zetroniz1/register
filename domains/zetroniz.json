@@ -1,0 +1,12 @@
+{
+    "owner": {
+        "username": "Zetroniz1",
+        "email": "zetroniz24@gmail.com"
+    },
+    "record": {
+        "NS": [
+            "leah.ns.cloudflare.com",
+            "woz.ns.cloudflare.com"
+        ]
+    }
+}
